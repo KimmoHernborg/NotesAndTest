@@ -4,9 +4,15 @@
 - [x] Same format as the listings
 - [x] Separate into actions
 - [x] ListingCompare: Use param values from setting.json
-- [ ] Download updates into which folder, and what name? 
-- [ ] Result name: Update.json?
+- [ ] DownloadQueue
 - [ ] Process Comparison:
-    - [ ] Test
-    - [ ] 
-    - [ ] 
+    - [ ] Download files to local temp folder (name?)
+    - [ ] Save Comparison as .json file
+    - [ ] Dispatch event that ComparisonAndDownloadComplete
+- [ ] Prompt user for restart
+- [ ] Process UpdateBundle
+    - [ ] Delete: Files
+    - [ ] Delete: Folders
+    - [ ] Create: Folders
+    - [ ] Move: Downloaded Files
+    - [ ] Restart/startup?
