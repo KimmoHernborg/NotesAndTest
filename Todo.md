@@ -11,10 +11,24 @@
     - [x] Download files to local temp folder (Package)
     - [x] Save Comparison as Package.json file
     - [x] Dispatch event Complete
-- [ ] Prompt user for restart
 - [ ] Process UpdateBundle (Check if Package.json exists and then...)
     - [x] Delete: Files
     - [x] Delete: Folders
     - [x] Create: Folders
     - [x] Move: Downloaded Files
-    - [ ] Restart/startup?
+    - [ ] Dispatch Complete event
+
+### Update workflow
+- [ ] Startup (precheck only)
+- [ ] Check for update Package
+    - [ ] Yes: Install update package
+    - [ ] No: Goto next step...
+- [ ] Start "Main" app
+- [ ] Compare
+    - [ ] Has changes:
+        - [ ] Prompt user, if yes, cont.
+        - [ ] Download
+        - [ ] On download complete, prompt for restart, if yes, cont.
+        - [ ] Restart
+    - [ ] End Update check
+
