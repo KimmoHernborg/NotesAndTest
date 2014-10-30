@@ -4,7 +4,9 @@
 - [x] Same format as the listings
 - [x] Separate into actions
 - [x] ListingCompare: Use param values from setting.json
-- [ ] DownloadQueue
+- [x] DownloadQueue
+    - [x] ProgressEvents - progress / total?
+    - [x] VisualDownloadQueue
 - [ ] Process Comparison:
     - [ ] Download files to local temp folder (name?)
     - [ ] Save Comparison as .json file
