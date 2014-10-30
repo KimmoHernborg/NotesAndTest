@@ -13,8 +13,8 @@
     - [x] Dispatch event Complete
 - [ ] Prompt user for restart
 - [ ] Process UpdateBundle (Check if Package.json exists and then...)
-    - [ ] Delete: Files
-    - [ ] Delete: Folders
-    - [ ] Create: Folders
-    - [ ] Move: Downloaded Files
+    - [x] Delete: Files
+    - [x] Delete: Folders
+    - [x] Create: Folders
+    - [x] Move: Downloaded Files
     - [ ] Restart/startup?
