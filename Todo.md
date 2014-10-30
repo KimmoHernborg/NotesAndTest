@@ -7,12 +7,12 @@
 - [x] DownloadQueue
     - [x] ProgressEvents - progress / total?
     - [x] VisualDownloadQueue
-- [ ] Process Comparison:
-    - [ ] Download files to local temp folder (name?)
-    - [ ] Save Comparison as .json file
-    - [ ] Dispatch event that ComparisonAndDownloadComplete
+- [x] Process Comparison:
+    - [x] Download files to local temp folder (Package)
+    - [x] Save Comparison as Package.json file
+    - [x] Dispatch event Complete
 - [ ] Prompt user for restart
-- [ ] Process UpdateBundle
+- [ ] Process UpdateBundle (Check if Package.json exists and then...)
     - [ ] Delete: Files
     - [ ] Delete: Folders
     - [ ] Create: Folders
