@@ -18,11 +18,10 @@
     - [x] Move: Downloaded Files
 
 ### Update workflow
-- [ ] Startup (precheck only)
-- [ ] Check for update Package
-    - [ ] Yes: Install update package
-    - [ ] No: Goto next step...
-- [ ] Start "Main" app
+- [x] Startup (precheck only)
+- [x] Check for Update Package
+- [x] If Update Package = install
+- [x] Start "Main" app
 - [ ] Compare
     - [ ] Has changes:
         - [ ] Prompt user, if yes, cont.
