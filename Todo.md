@@ -11,12 +11,11 @@
     - [x] Download files to local temp folder (Package)
     - [x] Save Comparison as Package.json file
     - [x] Dispatch event Complete
-- [ ] Process UpdateBundle (Check if Package.json exists and then...)
+- [x] Process UpdateBundle (Check if Package.json exists and then...)
     - [x] Delete: Files
     - [x] Delete: Folders
     - [x] Create: Folders
     - [x] Move: Downloaded Files
-    - [ ] Dispatch Complete event
 
 ### Update workflow
 - [ ] Startup (precheck only)
