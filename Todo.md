@@ -1,4 +1,4 @@
-## TODO
+## PORTFOLIO TODO
 
 - [x] Json encoding
 - [x] Same format as the listings
@@ -30,3 +30,19 @@
         - [ ] Restart
     - [ ] End Update check
 
+### Axis version (2 weeks)
+- [ ] Server update fix
+- [ ] Log list (what was updated)
+- [ ] Update application (C# updater?)
+- [ ] Installer with Axis corporate languages
+
+### Waiting for feedback, lower prio (1 week)
+- [ ] Google Analytics (what should be tracked?)
+- [ ] Theming of the application (to better support several versions)
+- [ ] Mp4 movies in the Structure
+
+### Misc (1 week)
+- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
+- [ ] Installer: Language/Tetra Pak versions
+- [ ] Installer: pack as a self-extracting zip
+- [ ] Subfolders in My Presentations
