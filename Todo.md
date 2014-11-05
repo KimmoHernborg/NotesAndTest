@@ -23,9 +23,9 @@
 - [x] If Update Package = install
 - [x] Start "Main" app
 - [ ] Compare
-    - [ ] Has changes:
-        - [ ] Prompt user, if yes, cont.
-        - [ ] Download
+    - [x] Has changes:
+        - [x] Prompt user, if yes, cont.
+        - [x] Download
         - [ ] On download complete, prompt for restart, if yes, cont.
         - [ ] Restart
     - [ ] End Update check
@@ -46,3 +46,8 @@
 - [ ] Installer: Language/Tetra Pak versions
 - [ ] Installer: pack as a self-extracting zip
 - [ ] Subfolders in My Presentations
+
+## Server updates
+- [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
+
+
