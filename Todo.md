@@ -31,10 +31,11 @@
     - [ ] End Update check
 
 ### Axis version (2 weeks)
-- [ ] Server update fix
+- [ ] Update implementation
+- [ ] Update application files (not just Structure) (C# updater?)
 - [ ] Log list (what was updated)
-- [ ] Update application (C# updater?)
-- [ ] Installer with Axis corporate languages
+- [ ] Installer: With Axis corporate languages
+- [ ] Fix Entry wrong offset when opening/closing
 
 ### Waiting for feedback, lower prio (1 week)
 - [ ] Google Analytics (what should be tracked?)
