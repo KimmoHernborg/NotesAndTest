@@ -22,16 +22,16 @@
 - [x] Check for Update Package
 - [x] If Update Package = install
 - [x] Start "Main" app
-- [ ] Compare
+- [x] Compare
     - [x] Has changes:
         - [x] Prompt user, if yes, cont.
         - [x] Download
-        - [ ] On download complete, prompt for restart, if yes, cont.
-        - [ ] Restart
-    - [ ] End Update check
+        - [x] On download complete, prompt for restart, if yes, cont.
+        - [x] Restart
+    - [x] End Update check
 
 ### Axis version (2 weeks)
-- [ ] Update implementation
+- [x] Update implementation
 - [ ] Update application files (not just Structure) (C# updater?)
 - [ ] Log list (what was updated)
 - [ ] Installer: With Axis corporate languages
