@@ -1,5 +1,28 @@
 ## PORTFOLIO TODO
 
+### Axis version (2 weeks)
+- [x] Update implementation
+- [ ] Update application files (not just Structure) (C# updater?)
+- [ ] Log list (what was updated)
+- [ ] Installer: With Axis corporate languages
+- [ ] Fix Entry wrong offset when opening/closing
+
+### Waiting for feedback, lower prio (1 week)
+- [ ] Google Analytics (what should be tracked?)
+- [ ] Theming of the application (to better support several versions)
+- [ ] Mp4 movies in the Structure
+
+### Misc (1 week)
+- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
+- [ ] Installer: Language/Tetra Pak versions
+- [ ] Installer: pack as a self-extracting zip
+- [ ] Subfolders in My Presentations
+
+## Server updates
+- [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
+
+## DONE
+### Update
 - [x] Json encoding
 - [x] Same format as the listings
 - [x] Separate into actions
@@ -29,26 +52,4 @@
         - [x] On download complete, prompt for restart, if yes, cont.
         - [x] Restart
     - [x] End Update check
-
-### Axis version (2 weeks)
-- [x] Update implementation
-- [ ] Update application files (not just Structure) (C# updater?)
-- [ ] Log list (what was updated)
-- [ ] Installer: With Axis corporate languages
-- [ ] Fix Entry wrong offset when opening/closing
-
-### Waiting for feedback, lower prio (1 week)
-- [ ] Google Analytics (what should be tracked?)
-- [ ] Theming of the application (to better support several versions)
-- [ ] Mp4 movies in the Structure
-
-### Misc (1 week)
-- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
-- [ ] Installer: Language/Tetra Pak versions
-- [ ] Installer: pack as a self-extracting zip
-- [ ] Subfolders in My Presentations
-
-## Server updates
-- [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
-
 
