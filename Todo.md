@@ -9,6 +9,7 @@
 - [x] Fix text margins
 - [ ] New icons
 - [ ] Update the structure to the current update version
+- [ ] Installer
 
 ### Waiting for feedback, lower prio (1 week)
 - [ ] Google Analytics (what should be tracked?)
