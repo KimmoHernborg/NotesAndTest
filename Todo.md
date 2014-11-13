@@ -2,10 +2,13 @@
 
 ### Axis version (2 weeks)
 - [x] Update implementation
-- [ ] Update application files (not just Structure) (C# updater?)
+- [ ] Update application files (not just Structure) (C# updater!)
 - [ ] Log list (what was updated)
-- [ ] Installer: With Axis corporate languages
+- [ ] ~~Installer: With Axis corporate languages~~
 - [ ] Fix Entry wrong offset when opening/closing
+- [x] Fix text margins
+- [ ] New icons
+- [ ] Update the structure to the current update version
 
 ### Waiting for feedback, lower prio (1 week)
 - [ ] Google Analytics (what should be tracked?)
