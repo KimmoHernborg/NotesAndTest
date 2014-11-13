@@ -7,7 +7,8 @@
 - [ ] ~~Installer: With Axis corporate languages~~
 - [ ] Fix Entry wrong offset when opening/closing
 - [x] Fix text margins
-- [ ] New icons
+- [x] New icons
+- [x] Fix logo
 - [ ] Update the structure to the current update version
 - [ ] Installer
 
