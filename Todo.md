@@ -9,7 +9,7 @@
 - [x] Fix text margins
 - [x] New icons
 - [x] Fix logo
-- [ ] Update the structure to the current update version
+- [x] Update the structure to the current update version
 - [ ] Installer
 
 ### Waiting for feedback, lower prio (1 week)
