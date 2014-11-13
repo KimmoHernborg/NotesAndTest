@@ -2,7 +2,7 @@
 
 ### Axis version (2 weeks)
 - [x] Update implementation
-- [ ] Update application files (not just Structure) (C# updater!)
+- [x] Update application files (not just Structure) (C# updater!)
 - [ ] Log list (what was updated)
 - [ ] ~~Installer: With Axis corporate languages~~
 - [ ] Fix Entry wrong offset when opening/closing
