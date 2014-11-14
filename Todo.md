@@ -11,7 +11,7 @@
 - [x] Fix logo
 - [x] Update the structure to the current update version
 - [x] Installer
-- [ ] Add ignore pattern option to SHA1_Folders (unins000.dat, unins000.exe)
+- [x] Add ignore pattern option to SHA1_Folders (unins000.dat, unins000.exe)
 
 ### Waiting for feedback, lower prio (1 week)
 - [ ] Google Analytics (what should be tracked?)
