@@ -1,11 +1,19 @@
 ## PORTFOLIO TODO
+- [ ] Theming of the application (to better support several versions)
+- [ ] Mp4 movies in the Structure
+- [ ] PDF Files in the structure
+- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
+- [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
+- [ ] Log list (what was updated)
+- [ ] Fix Entry wrong offset when opening/closing
+- [ ] Installer: Language/Tetra Pak versions
+- [ ] Google Analytics (what should be tracked?)
+- [ ] Subfolders in My Presentations
+- [ ] ~~Installer: With Axis corporate languages~~
 
-### Axis version (2 weeks)
+## DONE
 - [x] Update implementation
 - [x] Update application files (not just Structure) (C# updater!)
-- [ ] Log list (what was updated)
-- [ ] ~~Installer: With Axis corporate languages~~
-- [ ] Fix Entry wrong offset when opening/closing
 - [x] Fix text margins
 - [x] New icons
 - [x] Fix logo
@@ -13,21 +21,6 @@
 - [x] Installer
 - [x] Add ignore pattern option to SHA1_Folders (unins000.dat, unins000.exe)
 
-### Waiting for feedback, lower prio (1 week)
-- [ ] Google Analytics (what should be tracked?)
-- [ ] Theming of the application (to better support several versions)
-- [ ] Mp4 movies in the Structure
-
-### Misc (1 week)
-- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
-- [ ] Installer: Language/Tetra Pak versions
-- [ ] Installer: pack as a self-extracting zip
-- [ ] Subfolders in My Presentations
-
-## Server updates
-- [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
-
-## DONE
 ### Update
 - [x] Json encoding
 - [x] Same format as the listings
