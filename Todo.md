@@ -11,6 +11,9 @@
 - [ ] Subfolders in My Presentations
 - [ ] ~~Installer: With Axis corporate languages~~
 
+## BUG TO FIX
+- [ ] On restart if update is downloaded it will always install, and restart. Fix so that restart is only if the restart button is clicked!!
+
 ## DONE
 - [x] Update implementation
 - [x] Update application files (not just Structure) (C# updater!)
