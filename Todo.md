@@ -1,8 +1,8 @@
 ## PORTFOLIO TODO
 - [ ] Theming of the application (to better support several versions)
+- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
 - [ ] Mp4 movies in the Structure
 - [ ] PDF Files in the structure
-- [ ] Editmode: fix playlist view scrolling direction: from vertical ==> horisontal
 - [ ] Cache SHA1 hashes (so that update checks are faster and requires less processing)
 - [ ] Log list (what was updated)
 - [ ] Fix Entry wrong offset when opening/closing
@@ -12,9 +12,9 @@
 - [ ] ~~Installer: With Axis corporate languages~~
 
 ## BUG TO FIX
-- [ ] On restart if update is downloaded it will always install, and restart. Fix so that restart is only if the restart button is clicked!!
 
 ## DONE
+- [x] On restart if update is downloaded it will always install, and restart. Fix so that restart is only if the restart button is clicked!!
 - [x] Update implementation
 - [x] Update application files (not just Structure) (C# updater!)
 - [x] Fix text margins
